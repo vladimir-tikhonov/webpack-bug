@@ -8,7 +8,7 @@ npx http-server
 
 ### To "fix" the bug
 ```bash
-npm i webpack@5.22
+npm i webpack@5.23
 npx webpack
 npx http-server
 # open browser, no exceptions
